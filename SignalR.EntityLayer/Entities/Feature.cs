@@ -1,4 +1,4 @@
-﻿namespace SignalR.EntityLayer.Entities
+﻿namespace SignalR.EntityLayer.Entities;
     public class Feature
     {
         public int FeatureID { get; set; }
@@ -10,4 +10,4 @@
         public string Description3 { get; set; }
 
     }
-}
+

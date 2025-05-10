@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRWebUI", "SignalRWebU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.EntityLayer", "SignalR.EntityLayer\SignalR.EntityLayer.csproj", "{8006B452-0E21-4500-B1FB-EEC66763F327}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.DataAccessLayer", "SignalR.DataAccessLayer\SignalR.DataAccessLayer.csproj", "{B0CAAA8D-587C-4426-801D-B7FEC16C91BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.DtoLayer", "SignalR.DtoLayer\SignalR.DtoLayer.csproj", "{38037F10-D6B4-4068-9F42-055BC09225BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.BusinessLayer", "SignalR.BusinessLayer\SignalR.BusinessLayer.csproj", "{66D0617B-3C19-4B85-9744-EEDE03530C01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +33,18 @@ Global
 		{8006B452-0E21-4500-B1FB-EEC66763F327}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8006B452-0E21-4500-B1FB-EEC66763F327}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8006B452-0E21-4500-B1FB-EEC66763F327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0CAAA8D-587C-4426-801D-B7FEC16C91BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CAAA8D-587C-4426-801D-B7FEC16C91BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CAAA8D-587C-4426-801D-B7FEC16C91BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CAAA8D-587C-4426-801D-B7FEC16C91BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38037F10-D6B4-4068-9F42-055BC09225BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38037F10-D6B4-4068-9F42-055BC09225BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38037F10-D6B4-4068-9F42-055BC09225BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38037F10-D6B4-4068-9F42-055BC09225BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D0617B-3C19-4B85-9744-EEDE03530C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D0617B-3C19-4B85-9744-EEDE03530C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D0617B-3C19-4B85-9744-EEDE03530C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D0617B-3C19-4B85-9744-EEDE03530C01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
