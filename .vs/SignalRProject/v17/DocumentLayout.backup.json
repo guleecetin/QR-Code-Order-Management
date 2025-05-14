@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66D0617B-3C19-4B85-9744-EEDE03530C01}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalr.businesslayer\\concrete\\testimonialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66D0617B-3C19-4B85-9744-EEDE03530C01}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\concrete\\testimonialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5E44B7A-6401-4F0C-AEC7-996FF854C5FD}|SignalRApi\\SignalRApi.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalrapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E44B7A-6401-4F0C-AEC7-996FF854C5FD}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E44B7A-6401-4F0C-AEC7-996FF854C5FD}|SignalRApi\\SignalRApi.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalrapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E44B7A-6401-4F0C-AEC7-996FF854C5FD}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TestimonialManager.cs",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalR.BusinessLayer\\Concrete\\TestimonialManager.cs",
-              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\Concrete\\TestimonialManager.cs",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalR.BusinessLayer\\Concrete\\TestimonialManager.cs",
-              "RelativeToolTip": "SignalR.BusinessLayer\\Concrete\\TestimonialManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAArAAAAAAAAAA==",
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T15:08:02.697Z",
+              "WhenOpened": "2025-05-14T22:19:05.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Program.cs",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Program.cs",
+              "RelativeToolTip": "SignalRApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:18:24.645Z",
               "EditorCaption": ""
             }
           ]
