@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5E44B7A-6401-4F0C-AEC7-996FF854C5FD}|SignalRApi\\SignalRApi.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalrapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5E44B7A-6401-4F0C-AEC7-996FF854C5FD}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5E44B7A-6401-4F0C-AEC7-996FF854C5FD}|SignalRApi\\SignalRApi.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalrapi\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E44B7A-6401-4F0C-AEC7-996FF854C5FD}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5E44B7A-6401-4F0C-AEC7-996FF854C5FD}|SignalRApi\\SignalRApi.csproj|c:\\users\\gulen\\source\\repos\\signalrproject\\signalrapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1187,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\BookingController.cs",
-              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\BookingController.cs",
-              "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\BookingController.cs",
-              "RelativeToolTip": "SignalRApi\\Controllers\\BookingController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T22:19:05.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Program.cs",
               "RelativeDocumentMoniker": "SignalRApi\\Program.cs",
               "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Program.cs",
               "RelativeToolTip": "SignalRApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T22:18:24.645Z",
+              "WhenOpened": "2025-05-15T07:24:03.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiscountController.cs",
+              "DocumentMoniker": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\DiscountController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\DiscountController.cs",
+              "ToolTip": "C:\\Users\\gulen\\source\\repos\\SignalRProject\\SignalRApi\\Controllers\\DiscountController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\DiscountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:18:55.354Z",
               "EditorCaption": ""
             }
           ]
